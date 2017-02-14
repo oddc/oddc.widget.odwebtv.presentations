@@ -1,0 +1,15 @@
+<od-widget widget-title="odWeb.tv: Meine Präsentationen" template="tpl-small-header" icon="resources/images/icon.svg">
+    <od-widget-header></od-widget-header>
+    <od-widget-content nospacing>
+            <od-loader ng-if="presentationListController.loading"></od-loader>
+            <ul class="list-group">
+                <li ng-repeat="presentation in presentationListController.presentationList"
+                    ng-click="presentationListController.openPresentation(presentation.pr_id)"
+                    class="list-group-item item-hover">
+                    {{ presentation.pr_name }}
+                    <span class="icon icon-chevron-right"></span>
+                </li>
+            </ul>
+    </od-widget-content>
+</od-widget>
+
