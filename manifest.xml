@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget id="oddc.widget.odwebtv.presentations" builder="2.2.2">
+<widget id="oddc.widget.odwebtv.presentations" builder="2.3.2">
     <information>
         <name lang="de-DE">odWeb.tv: Meine Präsentationen</name>
         <version>0.0.24</version>
