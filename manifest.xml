@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE widget PUBLIC "-//ODONE//DTD WIDGET-MANIFEST 3.0.0//DE" "https://www.optadata-one.de/widgetbuilder/3.0.0/widget.dtd">
-<widget id="oddc.widget.odwebtv.presentations" builder="3.0.0">
+<widget id="oddc.widget.odwebtv.presentations" builder="3.0.0" icon="/resources/images/icon.svg">
     <information>
         <name lang="de-DE">odWeb.tv: Meine Präsentationen</name>
-        <version>0.0.24</version>
+        <version>0.0.26</version>
         <author>
             <company>opta data Gruppe</company>
             <telephone>0201 / 3 19 60</telephone>
