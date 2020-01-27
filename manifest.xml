@@ -3,12 +3,13 @@
 <widget id="oddc.widget.odwebtv.presentations" builder="3.0.0" icon="/resources/images/icon.png">
     <information>
         <name lang="de-DE">odWeb.tv: Meine Präsentationen</name>
-        <version>0.0.27</version>
+        <version>0.0.28</version>
         <author>
+            <name>opta data digital communication GmbH</name>
             <company>opta data Gruppe</company>
             <telephone>0201 / 3 19 60</telephone>
             <fax>0201 / 3 19 62 22</fax>
-            <email>service@optadata-gruppe.de</email>
+            <email>info@odWeb.tv</email>
             <web>http://www.optadata-gruppe.de</web>
         </author>
         <developer>
